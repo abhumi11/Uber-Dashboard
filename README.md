@@ -1,25 +1,23 @@
 # Uber-Dashboard
-Project Title / Headline
 
-**Uber Analytics Dashboard: Business Insights & Performance Monitoring**
+- Project Title / Headline
+Uber Analytics Dashboard: Business Insights & Performance Monitoring
 A dynamic and interactive Power BI dashboard designed to analyze Uber ride data, monitor performance KPIs, understand rider behavior, optimize vehicle usage, and improve business decision-making.
 
-**Short Description / Purpose**
-
+- Short Description / Purpose
 This project aims to convert raw Uber trip data into actionable business insights using Power BI. The dashboard allows stakeholders to monitor KPIs, understand customer trends, evaluate vehicle performance, identify revenue opportunities, and make strategic decisions to improve operations and customer satisfaction.
 
-**Tech Stack **
+- Tech Stack 
 
-Power BI Desktop:	                 Used to design, analyze, and build the dashboard interface
-Power Query Editor:	                 Data cleaning, transformation, and formatting
-DAX (Data Analysis Expressions)	:    Calculated measures for KPIs and advanced analytics
-Data Modeling:          	         Relationship creation between tables for cross-filtered reports
-MS Excel (.xlsx):       	          Raw dataset containing Uber trip details
-PBIX file format (.pbix):   	     Final dashboard development format
-Filters & Slicers:       	         For interactive user experience and drill-down analysis
+- Power BI Desktop:	                 Used to design, analyze, and build the dashboard interface
+- Power Query Editor:	                 Data cleaning, transformation, and formatting
+- DAX (Data Analysis Expressions)	:    Calculated measures for KPIs and advanced analytics
+- Data Modeling:          	         Relationship creation between tables for cross-filtered reports
+- MS Excel (.xlsx):       	          Raw dataset containing Uber trip details
+- PBIX file format (.pbix):   	     Final dashboard development format
+- Filters & Slicers:       	         For interactive user experience and drill-down analysis
 
-**Data Source Details
-**
+- Data Source Details
 Dataset Name: uber.xlsx
 Type: Real-world ride dataset
 
@@ -37,8 +35,8 @@ Key Data Fields Included:
 - Time-Based Details (Month / Quarter)
 
 
-**Features & Dashboard Highlights
-**
+- Features & Dashboard Highlights
+
 🔴 Business Problem
 
 Uber receives large amounts of booking data daily, but manual tracking makes it difficult to:
@@ -152,6 +150,8 @@ This dashboard transforms raw data into meaningful insights that help Uber reduc
 ✔ Used Power BI storytelling techniques
 ✔ Applied data modeling for cross-analysis
 ✔ Designed an interactive & professional dashboard
+
 The data was cleaned using Power Query, structured using data modeling, and visualized through multiple report pages in Power BI.
 
 **Screenshots**
+[Dashboard Preview], (https://github.com/abhumi11/Uber-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
