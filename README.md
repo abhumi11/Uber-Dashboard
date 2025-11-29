@@ -86,60 +86,57 @@ To build a data-driven dashboard that:
 
 Purpose: Analyze which vehicle type gives maximum business output
 
-Visual	Insight Provided:
-
-Booking Count by Vehicle:	Identifies most used vehicle
-Revenue Contribution by Vehicle:	Shows high-profit vehicles
-Performance Comparison: Helps optimize vehicle allocation
+- Booking Count by Vehicle:	Identifies most used vehicle
+- Revenue Contribution by Vehicle:	Shows high-profit vehicles
+- Performance Comparison: Helps optimize vehicle allocation
 
 💰 Revenue Analysis Page:
 
-
 Breakdown of income sources:
-Revenue by Customer
-Revenue by Vehicle Type
-Revenue by Payment Method
 
-Monthly & Quarterly Revenue Trend
+- Revenue by Customer
+- Revenue by Vehicle Type
+- Revenue by Payment Method
+-Monthly & Quarterly Revenue Trend
 ➡ Used to identify high-paying segments & optimize pricing strategy
 
 🧍 Rider Analysis Page:
 
 Focus on customer behavior
 
-Rider Type Segmentation;	First-time, Return, Regular Riders
-Cancellation Reasons:	Helps reduce future cancellations
-Payment Method Preference:	Helps improve payment strategy
-Detailed Table View	For deeper analysis
+- Rider Type Segmentation;	First-time, Return, Regular Riders
+- Cancellation Reasons:	Helps reduce future cancellations
+- Payment Method Preference:	Helps improve payment strategy
+- Detailed Table View	For deeper analysis
 
 📍 Location Analysis Page:
 
-To find demand patterns & hotspots
-Monthly Total Distance Travelled
-Distance by Vehicle Type
-Busy Time Slots (Peak Hours)
-Top Pickup & Drop Areas
+-To find demand patterns & hotspots
+-Monthly Total Distance Travelled
+-Distance by Vehicle Type
+-Busy Time Slots (Peak Hours)
+-Top Pickup & Drop Areas
 ➡ Helps with route optimization & surge pricing
 
 📌 7. Business Impact & Insights:
 
-Fleet Optimization:	Best vehicle types identified for higher bookings
-Demand Analysis	: Hotspots & busy hours revealed
-Revenue Growth:	Strong customer segments identified
-Customer Retention:	Rider behavior insights support loyalty strategies
-Decision Making: 	Enables faster & data-backed business decisions
-Cost Reduction:	Helps reduce lost bookings & cancellations
+-Fleet Optimization:	Best vehicle types identified for higher bookings
+-Demand Analysis	: Hotspots & busy hours revealed
+-Revenue Growth:	Strong customer segments identified
+-Customer Retention:	Rider behavior insights support loyalty strategies
+-Decision Making: 	Enables faster & data-backed business decisions
+-Cost Reduction:	Helps reduce lost bookings & cancellations
 
 🚀 Final Outcome:
 This dashboard transforms raw data into meaningful insights that help Uber reduce cancellations, improve customer satisfaction, and grow revenue using data-backed decisions.
 
 📌 8. Key Learnings 
 
-✔ Hands-on experience with real operational data
-✔ Developed business KPIs using DAX
-✔ Used Power BI storytelling techniques
-✔ Applied data modeling for cross-analysis
-✔ Designed an interactive & professional dashboard
+- Hands-on experience with real operational data
+- Developed business KPIs using DAX
+- Used Power BI storytelling techniques
+- Applied data modeling for cross-analysis
+-  Designed an interactive & professional dashboard
 
 The data was cleaned using Power Query, structured using data modeling, and visualized through multiple report pages in Power BI.
 
